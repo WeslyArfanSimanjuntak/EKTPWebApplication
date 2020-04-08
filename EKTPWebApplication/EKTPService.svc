@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="EKTPWebApplication.EKTPService" CodeBehind="EKTPService.svc.cs" %>
